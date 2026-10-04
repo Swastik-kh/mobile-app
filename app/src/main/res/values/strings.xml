@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart Log</string>
+    <string name="app_full_title">Smart Log</string>
+    <string name="login_title">लगइन गर्नुहोस्</string>
+    <string name="username">प्रयोगकर्ताको नाम (Username)</string>
+    <string name="password">पासवर्ड (Password)</string>
+    <string name="btn_login">लगइन गर्नुहोस्</string>
+    <string name="cold_chain_log">कोल्ड चेन लग</string>
+    <string name="store_temperature_log">स्टोर तापक्रम लग</string>
+    <string name="temperature_reports">रिपोर्ट तथा एक्सपोर्ट</string>
+    <string name="device_management">उपकरण व्यवस्थापन</string>
+    <string name="settings">सेटिङ्स</string>
+    <string name="logout">लगआउट</string>
+    <string name="access_denied_title">पहुँच अस्वीकृत (Access Denied)</string>
+    <string name="access_denied_message">तपाईंको खातालाई Smart Log प्रणाली प्रयोग गर्ने अनुमति छैन। कृपया आफ्नो संस्थाको सुपर एडमिन वा स्वास्थ्य अधिकृतसँग सम्पर्क गर्नुहोस्।</string>
+    <string name="oxygen_sewa_access_denied_message">तपाईंको खातामा अक्सिजन सेवा प्रयोग गर्ने अनुमति छैन। कृपया प्रशासकलाई `oxygen_sewa` अनुमति थप्न अनुरोध गर्नुहोस्।</string>
+    <string name="oxygen_sewa">अक्सिजन सेवा (Oxygen Service)</string>
+</resources>

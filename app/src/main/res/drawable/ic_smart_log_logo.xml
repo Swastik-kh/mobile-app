@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Gradient Background -->
+    <path
+        android:pathData="M16,0 L92,0 A16,16 0 0,1 108,16 L108,92 A16,16 0 0,1 92,108 L16,108 A16,16 0 0,1 0,92 L0,16 A16,16 0 0,1 16,0 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00507A" />
+                <item android:offset="0.5" android:color="#006E8E" />
+                <item android:offset="1.0" android:color="#00889A" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Frosted Card Backplate -->
+    <path
+        android:fillColor="#24FFFFFF"
+        android:pathData="M32,22 L76,22 A8,8 0 0,1 84,30 L84,78 A8,8 0 0,1 76,86 L32,86 A8,8 0 0,1 24,78 L24,30 A8,8 0 0,1 32,22 Z" />
+
+    <!-- OXYGEN TANK -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M36,25 L40,25 A1.5,1.5 0 0,1 41.5,26.5 L41.5,29 L34.5,29 L34.5,26.5 A1.5,1.5 0 0,1 36,25 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30 C33.5,30 30,33.5 30,38 L30,73 C30,76.5 33.5,79 38,79 C42.5,79 46,76.5 46,73 L46,38 C46,33.5 42.5,30 38,30 Z" />
+    <path
+        android:fillColor="#00A896"
+        android:pathData="M30,39 L46,39 L46,43 L30,43 Z" />
+    <path
+        android:strokeColor="#00889A"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M35,53 C33.8,53 33,54.5 33,56.5 C33,58.5 33.8,60 35,60 C36.2,60 37,58.5 37,56.5 C37,54.5 36.2,53 35,53 Z M40,56 L43,56 L40,60 L43,60" />
+
+    <!-- CLINICAL THERMOMETER -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,30 C66,27.8 67.8,26 70,26 C72.2,26 74,27.8 74,30 L74,58.2 C76.5,59.8 78,62.7 78,66 C78,70.4 74.4,74 70,74 C65.6,74 62,70.4 62,66 C62,62.7 63.5,59.8 66,58.2 Z" />
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M68,42 L72,42 L72,59.2 C74.2,60.5 75.2,63.1 74.8,65.6 C74.3,68.2 72.3,70.5 70,70.5 C67.7,70.5 65.7,68.2 65.2,65.6 C64.8,63.1 65.8,60.5 68,59.2 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round"
+        android:pathData="M75,32 L79,32 M75,38 L80.5,38 M75,44 L79,44 M75,50 L80.5,50" />
+
+    <!-- MEDICAL CROSS -->
+    <path
+        android:fillColor="#70E4EF"
+        android:pathData="M52,22 L56,22 L56,26 L60,26 L60,30 L56,30 L56,34 L52,34 L52,30 L48,30 L48,26 L52,26 Z" />
+
+    <!-- ECG PULSE -->
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M46,65 L50,65 L52.5,59 L55.5,70 L58,63 L62,63" />
+</vector>
